@@ -3,7 +3,7 @@
 A recreation of pokedex from pokemon.. will add new features soon
 
 <div class="row">
-<img src = "./ss/img00.jpeg" height="300" width = "150" >
+<img src = "./ss/img04.jpeg" height="300" width = "150" >
 <img src = "./ss/img01.jpeg" height="300" width = "150" >
 <img src = "./ss/img02.jpeg" height="300" width = "150" >
 <img src = "./ss/img03.jpeg" height="300" width = "150" >
